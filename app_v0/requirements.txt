@@ -6,3 +6,4 @@ psycopg[binary]
 python-dotenv
 streamlit
 httpx
+psycopg2-binary
